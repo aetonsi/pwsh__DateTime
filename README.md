@@ -1,5 +1,5 @@
 # pwsh__DateTime
-Powershell module with an util that returns a formatted datetime string.
+Powershell tool that returns a formatted datetime string.
 
 # Usage
 ```powershell
